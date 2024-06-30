@@ -1,0 +1,10 @@
+What is the correct way to declare a variable in Java to store an integer?	A) var num = 5-B) int num = 5-C) Integer num = 5-D) num = 5;$
+What is the output of the following Java code snippet?	A) 5-B) 6-C) 4-D) Compilation Error$
+Which keyword is used to define a class in Java?	A) class-B) void-C) new-D) String$
+What is the purpose of the "public static void main(String[] args)" method in a Java class?	A) It is the entry point of the program.-B) It is used to print output to the console-C) It is a method for performing mathematical operations-D) It is used to create objects.$
+Which data type is used to store characters in Java?	A) char-B) int-C) String-D) character$
+What is the correct way to initialize an array with values in Java?	A) int[] numbers = {1, 2, 3}-B) array numbers = [1, 2, 3];-C) int numbers[] = (1, 2, 3);-D) int[] numbers = new int[1, 2, 3];$
+What is the output of the following Java code snippet?	A) 4-B) 3-C) 2-D) Compilation Error$
+Which operator is used to compare two values for equality in Java?	A) ==-B) =-C) !=-D) ===$
+What is the correct way to create an instance of the Scanner class to read input from the console?	A) Scanner input = new Scanner(System.in);-B) SystemScanner input = new Scanner();-C) Scanner input = new System.in.Scanner();-D) Scanner input = new InputScanner();$
+What is the output of the following Java code snippet?	A) 0 1 2 3 4-B) 1 2 3 4 5-C) 0 1 2 3-D) Compilation Error$

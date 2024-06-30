@@ -1,0 +1,10 @@
+Q1: What is the capital of France?	A) London-B) Paris-C) Berlin-D) Madrid$
+Q2: Which word is a synonym for "happy"?	A) Angry-B) Sad-C) Joyful-D) Confused$
+Q3: What does the idiom "break a leg" mean?	A) To literally break a leg-B)To dance energetically-C) To perform well in a show-D) To have an accident$
+Q4: What is the opposite of "up"?	A) Down-B) Left-C) Right-D) Middle$
+Q5: What is a group of lions called?	A) Herd-B) Flock-C) Pride-D) School$
+Q6: Which word is a conjunction?	A) House-B) And-C) Sing-D) Quickly$
+Q7: What is the correct plural form of "child"?	A) Childs-B) Childes-C) Children-D) Childs'$
+Q8: Who wrote the play "Romeo and Juliet"?	A) Charles Dickens-B) Jane Austen-C) William Shakespeare-D) Mark Twain$
+Q9: Which of these words is a preposition?	A) Jump-B) Book-C) Between-D) Fast$
+Q10: What is the past tense of "eat"?	A) Ate-B) Eaten-C) Aten-D) Eat$

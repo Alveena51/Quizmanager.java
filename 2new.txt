@@ -1,0 +1,10 @@
+Q1: What is 2 + 2?	A) 3-B) 4-C) 5-D) 6$
+Q2: If a triangle has two sides of length 5 units and 7 units, what is the length of the third side?	A) 3 units-B) 10 units-C) 12 units-D) 2 units$
+Q3: What is 8 multiplied by 6?	A) 24	B) 48	C) 64	D) 12$
+Q4: If a rectangle has a length of 10 units and a width of 4 units, what is its area?	A) 14 square units-B) 40 square units-C) 24 square units-D) 36 square units$
+Q5: If 15 is divided by 3, what is the quotient?	A) 5-B) 3-C) 2-D) 10$
+Q6: What is the square root of 25?	A) 5-B) 10-C) 3-D) 7$
+Q7: If x + 4 = 10, what is the value of x?	A) 14-B) 6-C) 10-D) 4$
+Q8: What is 9 minus 3?	A) 5-B)-6C)-3D) 2$
+Q9: If 7 times a number is 42, what is the number?	A) 5-B) 6-C) 7-D) 8$
+Q10: What is 16 divided by 4?	A) 4-B) 6-C) 2-D) 8$
